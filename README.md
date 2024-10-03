@@ -1,7 +1,7 @@
 Hi 👋 My name is Vivek
 ======================
 
-Senior Salesforce developer | 9 x Salesforce | 1 x Copado | LWC | Apex
+Senior Salesforce developer | 12 x Salesforce | 1 x Copado | LWC | Apex | Flows | Integrations
 ----------------------------------------------------------------------
 
 Salesforce Development for 5+ years, total industry experience of 7+ years. Adaptable and a quick learner; possess skills to work under pressure. Possesses strong technical, management, communication & interpersonal skills.
